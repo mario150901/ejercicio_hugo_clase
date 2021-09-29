@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost/ejercicio_hugo_clase/'
 languageCode = 'es-es'
 title = 'Primeros pasos'
 theme = 'tale'

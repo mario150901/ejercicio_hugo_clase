@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/clases/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/clases/</loc>
     <lastmod>2021-09-21T09:58:58+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/contacto/</loc>
     <lastmod>2021-09-21T09:58:58+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/posts/</loc>
     <lastmod>2021-09-21T09:58:58+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/tags/</loc>
   </url>
 </urlset>
