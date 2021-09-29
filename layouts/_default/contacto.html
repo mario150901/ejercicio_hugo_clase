@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<main>
+	<div class="post">
+		{{ partial "single/post-info.html" . }}
+		{{ partial "single/title.html" . }}
+
+		{{ partial "single/header.html" . }}
+
+		{{ .Content }}
+
+		{{ partial "single/footer.html" . }}
+	</div>
+
+	<div class="pagination">
+		{{- if .PrevPage }}
+		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow">&#8592;</a>
+		{{- end }}
+		{{- if .NextPage }}
+		<a href="{{ .NextPage.RelPermalink }}" class="right arrow">&#8594;</a>
+		{{- end }}
+
+		<a href="#" class="top">Top</a>
+	</div>
+<form 
+  action="https://formspree.io/f/xoqyrywd"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <br>
+  <br>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <br>
+  <!-- your other form fields go here -->
+  <button type="submit">Enviar</button>
+</form>
+</main>
+	
+{{ end }}
