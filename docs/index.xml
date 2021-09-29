@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primeros pasos</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Primeros pasos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clases</title>
+      <link>http://example.org/clases/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:58 +0200</pubDate>
+      
+      <guid>http://example.org/clases/</guid>
+      <description>Datos de las clases  Teléfono Horas Email &amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:58 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Datos de contacto de la empresa  Teléfono Dirección Email &amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://example.org/posts/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:58 +0200</pubDate>
+      
+      <guid>http://example.org/posts/</guid>
+      <description>Posts de la empresa </description>
+    </item>
+    
+  </channel>
+</rss>
